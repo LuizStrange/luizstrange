@@ -1,4 +1,4 @@
-## Olá! Eu sou Luiz Guilherme, atualmente sou um Development Student!
+## Olá! Eu sou Luiz Guilherme, atualmente sou um FullStackJr!
 
 <div align="center">
   <a href="https://github.com/luizstrange">
