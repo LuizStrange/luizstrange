@@ -1,4 +1,8 @@
-## Olá! Eu sou Luiz Guilherme, atualmente desenvolvedor mobile e back-end!
+
+
+<div align="center">
+  ## Olá! Eu sou Luiz Guilherme, atualmente desenvolvedor mobile e back-end!
+</div>
 
 <div align="center">
   <a href="https://github.com/luizstrange">
