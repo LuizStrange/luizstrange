@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  ## Olá! Eu sou Luiz Guilherme, atualmente desenvolvedor mobile e back-end!
+  <h1>Olá! Eu sou Luiz Guilherme, atualmente desenvolvedor mobile e back-end!</h1>
 </div>
 
 <div align="center">
